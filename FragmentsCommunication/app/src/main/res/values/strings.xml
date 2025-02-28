@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FragmentsCommunication</string>
+    <string name="send_data_to_second">second\n</string>
+    <string name="send_data_to_first">first</string>
+</resources>
