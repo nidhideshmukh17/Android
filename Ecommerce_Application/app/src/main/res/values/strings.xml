@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ecommerce_Application</string>
+    <string name="search">Search</string>
+    <string name="cart">Cart</string>
+    <string name="dash">-</string>
+    <string name="one">1</string>
+    <string name="product_image">Product Image</string>
+</resources>
